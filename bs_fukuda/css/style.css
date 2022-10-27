@@ -1,0 +1,14 @@
+footer .card-img-overlay{
+    background: rgba(0,0,0,0.5);
+}
+
+
+.navbar{
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
+.ABOUT{
+    text-align: center;
+}
